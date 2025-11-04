@@ -119,5 +119,3 @@ This project is open source and available under the MIT License.
 For support or questions, please contact hello@healthcareplus.com
 
 ---
-
-Built with ❤️ for healthcare professionals
