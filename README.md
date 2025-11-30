@@ -1,6 +1,6 @@
 # HealthCare Plus - Modern Health Marketing Agency Website.
 
-A stunning, modern website built with Next.js 14 and Tailwind CSS for a health marketing agency. Features a beautiful UI with smooth animations, comprehensive service showcase, and an integrated appointment booking form.
+A stunning, modern website built with Next.js 16 and Tailwind CSS for a health marketing agency. Features a beautiful UI with smooth animations, comprehensive service showcase, and an integrated appointment booking form.
 
 ## 🌟 Features
 
